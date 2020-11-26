@@ -6,3 +6,4 @@
  2. 在mysql创建数据库，名称为：translation。。
  3. 在translation数据库下运行sql文件用来创建表结构和示例数据。（sql文件位置：translation\src\main\resources\sql\translation.sql）。    
  4. 在idea中运行TranslationApplication.java,项目启动！！（启动java类位置：translation\src\main\java\com\system\translation\TranslationApplication.java）。
+ 5. 内置管理员，用户名：admin 密码：admin
